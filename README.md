@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Victor</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
+<img align="rigth" alt=""Coding width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
 
 - 📫 How to reach me **quizirironchi@outlook.com**
 
