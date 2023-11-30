@@ -28,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quiziri&show_icons=true&theme=dracula&locale=en" alt="quiziri" /></p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=Ff7f00&height=120&section=footer"/>
-![Snake animation](https://github.com/bessax/bessax/blob/output/github-contribution-grid-snake.svg)
