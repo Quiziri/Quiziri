@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 <h1 align="center">Hi 👋, I'm João Victor</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="370" src="https://www.bing.com/th/id/OGC.e91028c9a9beefdbaeeed6d2daf1fc22?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2ff1%2fed%2fa4%2ff1eda4768df8d8135c779772f2833e88.gif&ehk=GkPLSB7%2fiYzWtuSgOSqXdr7Nm2rZ%2bfxsWo1ptNqegS4%3d" />
 <br>
 
 ```C#
@@ -10,7 +10,8 @@ public class JoaoVictor
     public string Name { get; } = "João Victor Quiziri Ronchi";
     public string Acknowledgements { get; } = "Back-end";
     public string PrimarySkillset { get; } = "ALGUMAS HABILIDADES";
-    public List<string> Languages { get; } = new List<string> { "C#" , ".NET" , "Java", "Selenium", "SQL" };
+    public List<string> Languages { get; } = new List<string> { "C#", ".NET",
+        "Java", "Selenium", "SQL" };
 }
 ```
 
