@@ -10,7 +10,7 @@ public class JoaoVictor
     public string Name { get; } = "João Victor Quiziri Ronchi";
     public string Acknowledgements { get; } = "Back-end";
     public string PrimarySkillset { get; } = "ALGUMAS HABILIDADES";
-    public List<string> Languages { get; } = new List<string> { "C#", ".NET",
+    public List<string> Languages { get; } = new List<string> { "C#",".NET",
         "Java", "Selenium", "SQL" };
 }
 ```
@@ -45,13 +45,6 @@ public class JoaoVictor
     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
     <img align="center" alt="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" />
-  </kbd>
-  <kbd align="center">
-    <kbd>Front-end</kbd>
-    <br/><br/>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   </kbd>
   <kbd align="center"> 
     <kbd>Others</kbd>
