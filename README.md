@@ -63,8 +63,8 @@ public class JoaoVictor
 <br>
 <div align="center">
   <a href="https://github.com/quiziri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quiziri&theme=dracula&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quiziri&hide=html&layout=compact&theme=dracula"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quiziri&show_icons=true&title_color=8A2BE2&text_color=ffffff&icon_color=8A2BE2&bg_color=000000&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quiziri&hide=html&layout=compact&title_color=8A2BE2&text_color=ffffff&icon_color=8A2BE2&bg_color=000000&hide_border=true"/> 
 </div>
 <br>
 <a href="https://www.linkedin.com/in/joao-quiziri/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
