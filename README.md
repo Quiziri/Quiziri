@@ -10,8 +10,8 @@ public class JoaoVictor
     public string Name { get; } = "João Victor Quiziri Ronchi";
     public string Acknowledgements { get; } = "Back-end";
     public string PrimarySkillset { get; } = "ALGUMAS HABILIDADES";
-    public List<string> Languages { get; } = new List<string> { "C#",".NET",
-        "Java", "Selenium", "SQL" };
+    public List<string> Languages { get; } =
+        new List<string> { "C#",".NET", "Java", "Selenium", "SQL" };
 }
 ```
 
